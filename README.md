@@ -7,6 +7,8 @@ I'm feras from Palestine , I really enjoy learning languages and frameworks like
 * bootstrap 
 * PHP 
 * MySql
+#
+DESIGN new template by {{ wordpress }}
 # -------------------------------------
 
 * 📱 UI interface by adobe xd and others

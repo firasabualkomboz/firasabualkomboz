@@ -3,7 +3,12 @@ I'm feras from Palestine , I really enjoy learning languages and frameworks like
 
 ## Skills and Experience
 * ⚡ backend PHP WITH LARAVEL
-* 💻 HTML, CSS, JS
-* 📱 UI interface 
+* 💻 HTML, CSS, JS 
+* bootstrap 
+* PHP 
+* MySql
+# -------------------------------------
+
+* 📱 UI interface by adobe xd and others
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=firasabualkomboz)](https://github.com/anuraghazra/github-readme-stats)

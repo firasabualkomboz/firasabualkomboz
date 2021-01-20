@@ -4,6 +4,9 @@ I'm feras from Palestine , I really enjoy learning languages and frameworks like
 ## Skills and Experience
 * ⚡ backend PHP WITH LARAVEL
 * 💻 HTML, CSS, JS 
+> HTML, CSS
+> Javascript and Ajax 
+* README.md
 * bootstrap 
 * PHP 
 * MySql

@@ -5,10 +5,10 @@ I'm feras from Palestine , I really enjoy learning languages and frameworks like
 
 ### ⚡ Backend PHP WITH LARAVEL
 <hr>
-:fa-share: HTML , CSS and Bootstrap 
-### :fa-share: Javascript and Ajax 
-### :fa-share: PHP and MySql DB 
-### :fa-share: Git and Github , Restful Api 
+### HTML , CSS and Bootstrap 
+### Javascript and Ajax 
+### PHP and MySql DB 
+### Git and Github , Restful Api 
 
 DESIGN new template by {{ wordpress }}
 

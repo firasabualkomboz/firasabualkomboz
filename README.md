@@ -18,3 +18,5 @@ I'm feras from Palestine , I really enjoy learning languages and frameworks like
 DESIGN new template by {{ wordpress }}
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=firasabualkomboz)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firasabualkomboz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

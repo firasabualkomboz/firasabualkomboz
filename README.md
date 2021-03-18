@@ -6,14 +6,22 @@ I'm feras from Palestine , I really enjoy learning languages and frameworks like
 ### ⚡ Backend PHP WITH LARAVEL
 
 <hr>
+### html5 + Css3 
+### animation
+### responsive design 
+### bootstrap
+### UI design 
+### java script
+### json + http requests 
+### git and github
+### deploy - netlify and github page and herooku 
 
-### HTML , CSS and Bootstrap 
 
 ### Javascript and Ajax
 
 ### PHP and MySql DB 
 
-### Git and Github , Restful Api 
+### Restful Api 
 
 DESIGN new template by {{ wordpress }}
 

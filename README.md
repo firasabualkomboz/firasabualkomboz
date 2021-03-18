@@ -7,24 +7,27 @@ I'm feras from Palestine , I really enjoy learning languages and frameworks like
 
 <hr>
 
-### html5 + Css3 
+## Skills Front end ##
 
-### animation
+#### html5 + Css3 
 
-### responsive design 
+#### animation
 
-### bootstrap
+#### responsive design 
 
-### UI design 
+#### bootstrap
 
-### java script
+#### UI design 
 
-### json + http requests
+#### java script
 
-### git and github
+#### json + http requests
 
-### deploy - netlify and github page and herooku 
+#### git and github
 
+#### deploy - netlify and github page and herooku 
+
+## Skills Back end ##
 
 ### Javascript and Ajax
 

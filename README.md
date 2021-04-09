@@ -4,20 +4,32 @@ I have extensive experience in developing high-quality websites with responsive 
 ✬ Development of news websites
 ✬ Development of a Dashboard with all the details
 
-⚡️I specialize in developing back-end websites using the following technologies such as :
-✨Php
-✨Laravel
-✨Mysql
-✨API
 
-⚡️ I have knowledge of the following :
-✔️html5 + Css3
-✔️animation Css3
-✔️Responsive Design
-✔️Bootstrap
-✔️UI design
-✔️Java Script
-✔️Git and Github
+### ⚡️I specialize in developing back-end websites using the following technologies such as :
+
+#### ✨Php
+
+#### ✨Laravel
+
+#### ✨Mysql
+
+#### ✨API
+
+### ⚡️ I have knowledge of the following :
+
+#### ✔️html5 + Css3
+
+#### ✔️animation Css3
+
+#### ✔️Responsive Design
+
+#### ✔️Bootstrap
+
+#### ✔️UI design
+
+#### ✔️Java Script
+
+#### ✔️Git and Github
 
 I can analyze and study all software systems and build a database of its own that works very efficiently in addition to providing all security and privacy technologies on the sites.
 

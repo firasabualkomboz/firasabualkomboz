@@ -31,50 +31,20 @@ I have extensive experience in developing high-quality websites with responsive 
 
 #### ✔️Git and Github
 
+### ⚡️ some techniques :
+
+#### json + http requests
+
+#### Ajax 
+
+#### deploy - netlify and github page and herooku 
+
 I can analyze and study all software systems and build a database of its own that works very efficiently in addition to providing all security and privacy technologies on the sites.
 
 I try my best to come up with a quality product. Contact me and we will discuss your project in detail.
 Portfolio Items
 
 
-# feraskomboz
-I'm feras from Palestine , I really enjoy learning languages and frameworks like Laravel and other , as well as work in PHP. I also enjoy wireframing, ui, ux, and design in general. 
-
-#### Skills and Experience : 
-
-### ⚡ Backend PHP WITH LARAVEL
-
-<hr>
-
-## Skills Front end ##
-
-#### html5 + Css3 
-
-#### animation
-
-#### responsive design 
-
-#### bootstrap
-
-#### UI design 
-
-#### java script
-
-#### json + http requests
-
-#### git and github
-
-#### deploy - netlify and github page and herooku 
-
-## Skills Back end ##
-
-#### Javascript and Ajax
-
-#### PHP
-
-#### MySql DB
- 
-#### Restful Api 
 
 DESIGN new template by {{ wordpress }}
 

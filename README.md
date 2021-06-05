@@ -2,7 +2,7 @@
 
 ## 🤵 About Me:
 - I am a Web Designer and Developer .
-- - specialized in PHP | Laravel .
+- Specialized in PHP | Laravel .
 - I have extensive experience in developing high-quality websites with responsive designs with all kinds of screens and phones .
 - I am currently working remotely designing and developing websites on the <a href="https://www.freelancer.com/u/ferasout">Freelancer platform</a> .
  such as,

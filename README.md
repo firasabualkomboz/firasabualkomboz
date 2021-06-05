@@ -1,6 +1,7 @@
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/></h2>
+<h2>hello there i am a web developer</h2>
 </div>
+<br>
 
 Welcome, I am a web developer
 I have extensive experience in developing high-quality websites with responsive designs with all kinds of screens and phones such as,
@@ -55,3 +56,6 @@ DESIGN new template by {{ wordpress }}
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=firasabualkomboz)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firasabualkomboz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<i>Follow me around the web:</i><br>
+
+  <!-- <a target="_blank" href="https://www.linkedin.com/in/feras-anwer-abu-alkomboz-672523192/edit/intro/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●

@@ -1,7 +1,8 @@
 # Hi there , i am a web developer  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 ## 🤵 About Me:
-- I am currently working remotely designing and developing websites on the <a href="https://Freelancer.com">Freelancer platform</a>
+- I am currently working remotely designing and developing websites on the <a href="https://www.freelancer.com/u/ferasout">Freelancer platform</a>
+- 
 I have extensive experience in developing high-quality websites with responsive designs with all kinds of screens and phones such as,
 ✬ Development of electronic stores
 ✬ Development of news websites

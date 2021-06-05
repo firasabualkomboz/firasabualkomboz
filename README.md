@@ -1,10 +1,7 @@
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-<div align="center">
-<h2>hello there i am a web developer</h2>
-</div>
-<br>
+# Hi there , i am a web developer  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-## OverView
+## 🤵 About Me:
+- I am currently working remotely designing and developing websites on the <a href="https://Freelancer.com">Freelancer platform</a>
 I have extensive experience in developing high-quality websites with responsive designs with all kinds of screens and phones such as,
 ✬ Development of electronic stores
 ✬ Development of news websites
@@ -58,5 +55,4 @@ DESIGN new template by {{ wordpress }}
 <br>
 
 <i>Follow me around the web:</i>
-<br>
-<a target="_blank" href="https://www.linkedin.com/in/feras-anwer-abu-alkomboz-672523192/edit/intro/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a>
+

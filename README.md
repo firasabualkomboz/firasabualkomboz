@@ -5,7 +5,7 @@
 - Specialized in PHP | Laravel .
 - I have extensive experience in developing high-quality websites with responsive designs with all kinds of screens and phones .
 - I am currently working remotely designing and developing websites on the <a href="https://www.freelancer.com/u/ferasout">Freelancer platform</a> .
-- Finally , I publish my latest achievements and diaries in my major here  <a href="https://www.linkedin.com/in/feras-anwer-abu-alkomboz-672523192/">Follow me to be friends !
+- Finally , I publish my latest achievements and diaries in my major here  <a href="https://www.linkedin.com/in/feras-anwer-abu-alkomboz-672523192/">Follow me to be friends ! .
 <!--  such as,
 ✬ Development of electronic stores
 ✬ Development of news websites

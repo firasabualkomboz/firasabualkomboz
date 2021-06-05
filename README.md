@@ -5,10 +5,10 @@
 - Specialized in PHP | Laravel .
 - I have extensive experience in developing high-quality websites with responsive designs with all kinds of screens and phones .
 - I am currently working remotely designing and developing websites on the <a href="https://www.freelancer.com/u/ferasout">Freelancer platform</a> .
- such as,
+<!--  such as,
 ✬ Development of electronic stores
 ✬ Development of news websites
-✬ Development of a Dashboard with all the details
+✬ Development of a Dashboard with all the details -->
 
 ## 👨‍💻 Languages and Tools
 - Ui Design

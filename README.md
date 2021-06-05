@@ -1,3 +1,4 @@
+# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <div align="center">
 <h2>hello there i am a web developer</h2>
 </div>

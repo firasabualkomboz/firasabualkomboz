@@ -45,7 +45,7 @@
 
 #### ✔️Git and Github -->
 
-### ⚡️ some techniques :
+<!-- ### ⚡️ some techniques :
 
 #### json + http requests
 
@@ -56,11 +56,11 @@
 I can analyze and study all software systems and build a database of its own that works very efficiently in addition to providing all security and privacy technologies on the sites.
 
 I try my best to come up with a quality product. Contact me and we will discuss your project in detail.
-Portfolio Items
+Portfolio Items -->
 
 
 
-DESIGN new template by {{ wordpress }}
+<!-- DESIGN new template by {{ wordpress }} -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=firasabualkomboz)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -68,5 +68,5 @@ DESIGN new template by {{ wordpress }}
 <br>
 <br>
 
-<i>Follow me around the web:</i>
-
+<!-- <i>Follow me around the web:</i>
+ -->

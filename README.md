@@ -10,16 +10,27 @@
 ✬ Development of news websites
 ✬ Development of a Dashboard with all the details
 
-### 👨‍💻 Languages and Tools
-### ⚡️I specialize in developing back-end websites using the following technologies such as :
+## 👨‍💻 Languages and Tools
+- Ui Design
+- Html5
+- Css3
+- JavaScript
+- Bootstrap
+- PHP
+- MySQl
+- Laravel
+- JsonApi
+- Git & GitHub
 
-#### ✨Php
+<!-- ### ⚡️I specialize in developing back-end websites using the following technologies such as : -->
+
+<!-- #### ✨Php
 #### ✨Laravel
 #### ✨Mysql
 #### ✨API
 
-### ⚡️ I have knowledge of the following :
-
+### ⚡️ I have knowledge of the following : -->
+<!-- 
 #### ✔️html5 + Css3
 
 #### ✔️animation Css3
@@ -32,7 +43,7 @@
 
 #### ✔️Java Script
 
-#### ✔️Git and Github
+#### ✔️Git and Github -->
 
 ### ⚡️ some techniques :
 

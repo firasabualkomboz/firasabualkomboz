@@ -13,11 +13,8 @@ I have extensive experience in developing high-quality websites with responsive 
 ### ⚡️I specialize in developing back-end websites using the following technologies such as :
 
 #### ✨Php
-
 #### ✨Laravel
-
 #### ✨Mysql
-
 #### ✨API
 
 ### ⚡️ I have knowledge of the following :

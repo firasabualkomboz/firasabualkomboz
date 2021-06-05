@@ -60,4 +60,4 @@ DESIGN new template by {{ wordpress }}
 <br>
 
 <i>Follow me around the web:</i><br>
-<a target="_blank" href="https://www.linkedin.com/in/feras-anwer-abu-alkomboz-672523192/edit/intro/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
+<a target="_blank" href="https://www.linkedin.com/in/feras-anwer-abu-alkomboz-672523192/edit/intro/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a>

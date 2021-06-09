@@ -22,7 +22,14 @@
 - Laravel
 - JsonApi
 - Git & GitHub
-
+ 
+## Type of Projects I have worked on
+- E-commerce
+- CMS
+- Event Management System
+- Emergency Management Systems
+- Hospital Management System
+- Invoices Management System
 <!-- ### ⚡️I specialize in developing back-end websites using the following technologies such as : -->
 
 <!-- #### ✨Php

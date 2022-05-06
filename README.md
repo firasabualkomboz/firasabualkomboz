@@ -17,14 +17,33 @@
 ## 👨‍💻 Languages and Tools
 - Ui Design
 - Html5
-- Css3
-- JavaScript
-- Bootstrap
+- Css3 & Bootstrap
+- JavaScript & jquery 
 - PHP
 - MySQl
 - Laravel
 - JsonApi
+- Ajax
+ 
+## Dev Tools 
 - Git & GitHub
+- bitbucket
+- Jira 
+- trello 
+- Slack 
+- Working with team 
+
+## BONUS SKILLS
+- Ability to work within a team
+- Work under pressure
+- ability to learn something new
+- Optimizing old projects and fixing problems/Bugs 
+- Analytical.
+- System Analysis
+- UI-UX experience
+- Adobe photoshop & Adobe xd
+- Office software
+
  
 ## Type of Projects I have worked on
 - Event Management System

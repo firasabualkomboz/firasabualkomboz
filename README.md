@@ -59,6 +59,8 @@
 - TimeSheet
 - E-commerce
 
+I am interested in serving clients both large and small; my work spans the spectrum from individuals, small businesses, a state college, and a national bank. If you need reliable web development done right, then I'm your guy: no matter how big or how small the job is, I'd like to work with you.
+
 <!-- ### ⚡️I specialize in developing back-end websites using the following technologies such as : -->
 
 <!-- #### ✨Php

@@ -18,12 +18,11 @@
 - Ui Design
 - Html5
 - Css3 & Bootstrap
-- JavaScript & jquery 
+- Javascript / JQuery / AJAX
 - PHP
 - MySQl
 - Laravel
 - JsonApi
-- Ajax
  
 ## Dev Tools 
 - Git & GitHub

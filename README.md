@@ -1,4 +1,4 @@
-# Hi there , Expert web Developer  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="5px">
+# Hi there , Expert web Developer
 
 ## 🤵 About Me:
 - I am a Web Designer and Developer .

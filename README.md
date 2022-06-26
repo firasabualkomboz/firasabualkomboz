@@ -23,6 +23,7 @@
 - MySQl
 - Laravel
 - JsonApi
+- Firebase 
  
 ## Dev Tools 
 - Git & GitHub

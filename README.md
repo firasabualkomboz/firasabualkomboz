@@ -24,6 +24,11 @@
 - Laravel
 - JsonApi
 - Firebase 
+
+## Deployment 
+- Setup server digitalocean .
+- Working with cloudways 
+- Hosting projects on Hostinger and godaddy and other service hosting 
  
 ## Dev Tools 
 - Git & GitHub
@@ -32,6 +37,7 @@
 - trello 
 - Slack 
 - Working with team 
+
 
 ## BONUS SKILLS
 - Ability to work within a team

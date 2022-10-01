@@ -26,9 +26,9 @@
 - Firebase 
 
 ## Deployment 
-- Setup server digitalocean .
-- Working with cloudways 
-- Hosting projects on Hostinger and godaddy and other service hosting 
+🌟 Setup server digitalocean .
+🌟 Working with cloudways 
+🌟 Hosting projects on Hostinger and godaddy and other service hosting 
  
 ## Dev Tools 
 - Git & GitHub

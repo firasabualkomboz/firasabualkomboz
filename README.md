@@ -18,22 +18,9 @@
 
 
 ## 👨‍💻 Languages and Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![PHP]( https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-![Json](https://img.shields.io/badge/-Json-000?&logo=Json)
 
-- Html5
-- Css3 & Bootstrap
-- Javascript / JQuery / AJAX
-- PHP
-- MySQl
-- Laravel
-- JsonApi
-- Firebase 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,mysql,firebase)](https://skillicons.dev)
 
 
 

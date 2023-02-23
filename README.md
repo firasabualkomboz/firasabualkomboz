@@ -50,26 +50,15 @@ https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-
 - TimeSheet
 - E-commerce
 
-I am interested in serving clients both large and small; my work spans the spectrum from individuals, small businesses, a state college, and a national bank. If you need reliable web development done right, then I'm your guy: no matter how big or how small the job is, I'd like to work with you.
 
-<!-- ### ⚡️I specialize in developing back-end websites using the following technologies such as : -->
 
 <!-- #### ✨Php
 
 I can analyze and study all software systems and build a database of its own that works very efficiently in addition to providing all security and privacy technologies on the sites.
 
-I try my best to come up with a quality product. Contact me and we will discuss your project in detail.
-Portfolio Items -->
-
-
-
-<!-- DESIGN new template by {{ wordpress }} -->
+ -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=firasabualkomboz)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firasabualkomboz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-<br>
 
-<!-- <i>Follow me around the web:</i>
- -->
+

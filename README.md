@@ -1,6 +1,10 @@
 ### 🤵 About Me 
 
-Hi! I'm web application developer , Specialized in PHP & Laravel ,  I have experience in designing, developing, and maintaining web applications using various technologies such as HTML, CSS, JavaScript , PHP and modern frameworks like Laravel, and Vue.js. I have expertise in developing RESTful APIs, integrating third-party APIs, and working with databases such as MySQL and PostgreSQL.
+* Hi! I'm web application developer , Specialized in PHP & Laravel ,  I have experience in designing, developing, and maintaining web applications using various technologies such as HTML, CSS, JavaScript , PHP and modern frameworks like Laravel, and Vue.js. I have expertise in developing RESTful APIs, integrating third-party APIs, and working with databases such as MySQL and PostgreSQL.
+
+* I am experienced in agile methodologies and have worked in collaborative team environments using project management tools such as Jira and Trello. I have also utilized version control systems like Git and GitHub, as well as deployment tools like Docker and AWS to deploy applications to production environments.
+
+* Additionally, I have a strong understanding of web security principles and have implemented security measures such as encryption, authentication, and authorization in my projects. I am always seeking to learn new technologies and keep up to date with the latest trends in web development.
 
 
 ## 🤵 

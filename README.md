@@ -35,21 +35,6 @@
 - JsonApi
 - Firebase 
 
-## Type of Projects I have worked on
-- Event Management System
-- Emergency Management Systems
-- Hospital Management System
-- Invoices Management System
-- Order App
-- Login System
-- Portfolio
-- Blog
-- CMS
-- Bookmarker Manager5
-- Social Network
-- TimeSheet
-- E-commerce
-
 
 
 <!-- #### ✨Php

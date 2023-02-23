@@ -35,32 +35,6 @@ https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-
 - JsonApi
 - Firebase 
 
-## Deployment 
-- 🌟 Setup server digitalocean .
-- 🌟 Working with cloudways 
-- 🌟 Hosting projects on Hostinger and godaddy and other service hosting 
- 
-## Dev Tools 
-- Git & GitHub
-- bitbucket
-- Jira 
-- trello 
-- Slack 
-- Working with team 
-
-
-## BONUS SKILLS
-- Ability to work within a team
-- Work under pressure
-- ability to learn something new
-- Optimizing old projects and fixing problems/Bugs 
-- Analytical.
-- System Analysis
-- UI-UX experience
-- Adobe photoshop & Adobe xd
-- Office software
-
- 
 ## Type of Projects I have worked on
 - Event Management System
 - Emergency Management Systems
@@ -81,33 +55,6 @@ I am interested in serving clients both large and small; my work spans the spect
 <!-- ### ⚡️I specialize in developing back-end websites using the following technologies such as : -->
 
 <!-- #### ✨Php
-#### ✨Laravel
-#### ✨Mysql
-#### ✨API
-
-### ⚡️ I have knowledge of the following : -->
-<!-- 
-#### ✔️html5 + Css3
-
-#### ✔️animation Css3
-
-#### ✔️Responsive Design
-
-#### ✔️Bootstrap
-
-#### ✔️UI design
-
-#### ✔️Java Script
-
-#### ✔️Git and Github -->
-
-<!-- ### ⚡️ some techniques :
-
-#### json + http requests
-
-#### Ajax 
-
-#### deploy - netlify and github page and herooku 
 
 I can analyze and study all software systems and build a database of its own that works very efficiently in addition to providing all security and privacy technologies on the sites.
 

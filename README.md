@@ -1,4 +1,7 @@
-### 🤵 Hi! I'm web application developer
+### 🤵 About Me 
+
+Hi! I'm web application developer , Specialized in PHP & Laravel ,  I have experience in designing, developing, and maintaining web applications using various technologies such as HTML, CSS, JavaScript , PHP and modern frameworks like Laravel, and Vue.js. I have expertise in developing RESTful APIs, integrating third-party APIs, and working with databases such as MySQL and PostgreSQL.
+
 
 ## 🤵 
 - I am currently working remotely designing and developing websites on the <a href="https://www.freelancer.com/u/ferasout">Freelancer platform</a> .

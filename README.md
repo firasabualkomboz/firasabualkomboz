@@ -20,7 +20,7 @@
 ## 👨‍💻 Languages and Tools
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,mysql,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,php,laravel,mysql,firebase,vue)](https://skillicons.dev)
 
 
 

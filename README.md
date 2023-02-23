@@ -1,10 +1,5 @@
 ### 🤵 About Me 
 
-* Hi! I'm web application developer , Specialized in PHP & Laravel ,  I have experience in designing, developing, and maintaining web applications using various technologies such as HTML, CSS, JavaScript , PHP and modern frameworks like Laravel, and Vue.js. I have expertise in developing RESTful APIs, integrating third-party APIs, and working with databases such as MySQL and PostgreSQL.
-
-* I am experienced in agile methodologies and have worked in collaborative team environments using project management tools such as Jira and Trello. I have also utilized version control systems like Git and GitHub, as well as deployment tools like Docker and AWS to deploy applications to production environments.
-
-* Additionally, I have a strong understanding of web security principles and have implemented security measures such as encryption, authentication, and authorization in my projects. I am always seeking to learn new technologies and keep up to date with the latest trends in web development.
 
 
 ## 🤵 
@@ -19,19 +14,14 @@
 ✬ Development of a Dashboard with all the details -->
 
 ## 👨‍💻 Languages and Tools
-[html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![PHP]( https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![Json](https://img.shields.io/badge/-Json-000?&logo=Json)
 
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-]
-
-
-
-https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png
-https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png
-https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png
-	
-- Ui Design
 - Html5
 - Css3 & Bootstrap
 - Javascript / JQuery / AJAX
